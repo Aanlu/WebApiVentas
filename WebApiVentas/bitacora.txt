@@ -1,0 +1,5 @@
+30/11/2025 20:19:15: Login exitoso del usuario: luis
+30/11/2025 20:20:34: Se agregó tacos a Carnes
+30/11/2025 20:22:33: Login fallido: luiss
+30/11/2025 20:29:52: Nuevo usuario registrado: luiss
+30/11/2025 20:29:55: Login exitoso del usuario: luiss
